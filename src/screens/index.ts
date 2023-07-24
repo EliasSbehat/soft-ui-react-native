@@ -1,0 +1,15 @@
+export {default as About} from './About';
+export {default as Agreement} from './Agreement';
+export {default as Components} from './Components';
+export {default as Notifications} from './Notifications';
+export {default as Privacy} from './Privacy';
+export {default as Register} from './Register';
+export {default as Login} from './Login';
+export {default as Settings} from './Settings';
+export {default as Gallery} from './Gallery';
+export {default as CreatePin} from './CreatePin';
+export {default as Restore} from './Restore';
+export {default as Transactions} from './Transactions';
+export {default as Transfer} from './Transfer';
+export {default as ViewNFT} from './ViewNFT';
+export {default as Payments} from './Payments';
